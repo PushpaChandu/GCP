@@ -1,0 +1,1 @@
+machine_type = "n2d-standard-2"
